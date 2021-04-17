@@ -2,14 +2,14 @@ const blogData = [
   {
     id: 1,
     title: 'Mr Sada',
-    author: 'macmillan',
+    author: 'Mac Millan',
     body: 'lorem ipsum...............................',
     pages: 421,
   },
   {
     id: 2,
     title: 'Obi and Chike',
-    author: 'Unkown',
+    author: 'Mac Millan',
     body: 'lorem ipsum...............................',
     pages: 109,
   },
