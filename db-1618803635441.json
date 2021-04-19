@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Second Blog",
+      "body": "Articles are words that define a noun as specific or unspecific. Consider the following examples:",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}

@@ -8,7 +8,7 @@
         },
 
         {
-            "title" :"My First Blog",
+            "title" :"Second Blog",
             "body": "Articles are words that define a noun as specific or unspecific. Consider the following examples:",
             "author": "yoshi",
             "id" : 2
@@ -16,3 +16,4 @@
         
     ]
 }
+
