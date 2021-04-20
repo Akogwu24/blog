@@ -1,7 +1,11 @@
 import React from 'react';
 
 const Create = () => {
-  return <div>create a new post</div>;
+  return (
+    <div>
+      <h2>Add a new Blog</h2>
+    </div>
+  );
 };
 
 export default Create;
